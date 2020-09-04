@@ -13,7 +13,7 @@ spec:
     - hosts:
         - totcircles.com
         - www.totcircles.com
-      secreteName: totcircles-com
+      secretName: totcircles-com
   rules:
     - host: totcircles.com
       http:
